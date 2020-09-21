@@ -28,5 +28,5 @@ We execute the main apps in the following order:
 -> finally, we run the Android application on a mobile phone or Android Studio VM, for the Consumer.
 
 ## Group
-[Themelina Kouzoumpasi](https://github.com/themelinaKz)
+[Themelina Kouzoumpasi](https://github.com/themelinaKz),
 [Lydia Athanasiou](https://github.com/lydia-ath)
